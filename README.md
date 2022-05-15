@@ -7,19 +7,19 @@
 
 ## My familiar technologies
 ### Standards:
-| Technologie  | Skill |
+| Technology  | Skill |
 | ------------- | ------------- |
 | Html  | Very good  |
 | Css  | Very good  |
 
 ### CSS:
-| Technologie  | Skill |
+| Technology  | Skill |
 | ------------- | ------------- |
 | Bootstrap  | Good  |
 | Tailwind  | Very good  |
 
 ### Programming languages:
-| Technologie  | Skill |
+| Technology  | Skill |
 | ------------- | ------------- |
 | JavaScript  | Very good  |
 | TypeScript  | Very good  |
@@ -30,7 +30,7 @@
 | Solidity | Good  |
 
 ### Frameworks:
-| Technologie  | Skill |
+| Technology  | Skill |
 | ------------- | ------------- |
 | NextJS  | Very good  |
 | React  | Good  |
@@ -38,23 +38,23 @@
 | Laravel  | Basic  |
 
 ### Databases: 
-| Technologie  | Skill |
+| Technology  | Skill |
 | ------------- | ------------- |
 | Mysql  | Very good  |
 | PostgreSQL  | Very good  |
 
 ### Object-ralational mapping:
-| Technologie  | Skill |
+| Technology  | Skill |
 | ------------- | ------------- |
 | Prisma  | Very good  |
 
 ### Authentication:
-| Technologie  | Skill |
+| Technology  | Skill |
 | ------------- | ------------- |
 | Nextauth  | Very good  |
 | Auth0  | Basic  |
 
 ### Extra:
-| Technologie  | Skill |
+| Technology  | Skill |
 | ------------- | ------------- |
 | NodeJS  | Very good  |

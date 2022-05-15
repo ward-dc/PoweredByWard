@@ -1,46 +1,60 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on Sniper monkey, a nft trait sniper website.
 - 🌱 I’m currently learning nuxt.js
 - 📫 How to reach me: warddecoster2003@gmail.com
 - 🤝 I mainly use github to share some of my bigger projects.
 
-My familiar technologies:
-Standards:
-Html | Very good
-Css | Very good
+## My familiar technologies
+### Standards:
+| Technologie  | Skill |
+| ------------- | ------------- |
+| Html  | Very good  |
+| Css  | Very good  |
 
-CSS:
-Bootstrap | Good
-Tailwind | Very good
+### CSS:
+| Technologie  | Skill |
+| ------------- | ------------- |
+| Bootstrap  | Good  |
+| Tailwind  | Very good  |
 
-Programmeertalen:
-JavaScript | Very good
-TypeScript | Very good
-Python | Good
+### Programming languages:
+| Technologie  | Skill |
+| ------------- | ------------- |
+| JavaScript  | Very good  |
+| TypeScript  | Very good  |
+| Python  | Good  |
+| Java  | Good  |
+| C#  | Good  |
+| C++  | Basic  |
+| Solidity | Good  |
 
-Java | Good
-c# | Good
-c++ | Basic
+### Frameworks:
+| Technologie  | Skill |
+| ------------- | ------------- |
+| NextJS  | Very good  |
+| React  | Good  |
+| Vue  | Basic  |
+| Laravel  | Basic  |
 
-Solidity | Good 
+### Databases: 
+| Technologie  | Skill |
+| ------------- | ------------- |
+| Mysql  | Very good  |
+| PostgreSQL  | Very good  |
 
-Frameworks:
-NextJS | Very good
-React | Good
-Vue | Basic
-Laravel | Basic
+### Object-ralational mapping:
+| Technologie  | Skill |
+| ------------- | ------------- |
+| Prisma  | Very good  |
 
-Databases: 
-Mysql | Very good
-PostgreSQL | Very good
+### Authentication:
+| Technologie  | Skill |
+| ------------- | ------------- |
+| Nextauth  | Very good  |
+| Auth0  | Basic  |
 
-Object-ralational mapping:
-Prisma | Very good
-
-Authentication:
-Nextauth | Very good
-Auth0 | Basic
-
-Extra:
-NodeJS | Very good
+### Extra:
+| Technologie  | Skill |
+| ------------- | ------------- |
+| NodeJS  | Very good  |

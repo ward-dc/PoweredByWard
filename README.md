@@ -7,54 +7,50 @@
 
 ## My familiar technologies
 ### Standards:
-| Technology  | Skill |
-| ------------- | ------------- |
-| Html  | Very good  |
-| Css  | Very good  |
-
-### CSS:
-| Technology  | Skill |
-| ------------- | ------------- |
-| Bootstrap  | Good  |
-| Tailwind  | Very good  |
+| Technology  | Skill | Self-taught |
+| ------------- | ------------- | ------------- |
+| Html  | Very good  |  No (secondary school, university)  |
+| Css  | Very good  | No (secondary school, university)  |
 
 ### Programming languages:
-| Technology  | Skill |
-| ------------- | ------------- |
-| JavaScript  | Very good  |
-| TypeScript  | Very good  |
-| Python  | Good  |
-| Java  | Good  |
-| C#  | Good  |
-| C++  | Basic  |
-| Solidity | Good  |
+| Technology  | Skill | Self-taught |
+| ------------- | ------------- | ------------- |
+| JavaScript  | Very good  |   No (secondary school, university)  |
+| TypeScript  | Very good  | Yes |
+| Python  | Good  | No (secondary school, university)  |
+| Java  | Good  |  No (university)  |
+| C#  | Good  |  No (secondary school)  |
+| C++  | Basic  |  No (secondary school)  |
+| Solidity | Good  | Yes |
 
 ### Frameworks:
-| Technology  | Skill |
-| ------------- | ------------- |
-| NextJS  | Very good  |
-| React  | Good  |
-| Vue  | Basic  |
-| Laravel  | Basic  |
+| Technology  | Skill | Self-taught |
+| ------------- | ------------- | ------------- |
+| Bootstrap  | Good  |  No (secondary school)  |
+| Tailwind  | Very good  | Yes |
+| NextJS  | Very good  | Yes |
+| React  | Good  | Yes |
+| Vue  | Basic  | Yes |
+| Laravel  | Basic  |  No (university)  |
 
 ### Databases: 
-| Technology  | Skill |
-| ------------- | ------------- |
-| Mysql  | Very good  |
-| PostgreSQL  | Very good  |
+| Technology  | Skill | Self-taught |
+| ------------- | ------------- | ------------- |
+| Mysql  | Very good  |  No (secondary school, university)  |
+| PostgreSQL  | Very good  | Yes |
 
 ### Object-ralational mapping:
-| Technology  | Skill |
-| ------------- | ------------- |
-| Prisma  | Very good  |
+| Technology  | Skill | Self-taught |
+| ------------- | ------------- | ------------- |
+| Prisma  | Very good  | Yes |
 
 ### Authentication:
-| Technology  | Skill |
-| ------------- | ------------- |
-| Nextauth  | Very good  |
-| Auth0  | Basic  |
+| Technology  | Skill | Self-taught |
+| ------------- | ------------- | ------------- |
+| Nextauth  | Very good  | Yes |
+| Auth0  | Basic  | Yes |
 
 ### Extra:
-| Technology  | Skill |
-| ------------- | ------------- |
-| NodeJS  | Very good  |
+| Technology  | Skill | Self-taught |
+| ------------- | ------------- | ------------- |
+| NodeJS  | Very good  | Yes |

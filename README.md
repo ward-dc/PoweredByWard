@@ -2,55 +2,55 @@
 
 - 🔭 I’m currently working on Sniper monkey, a nft trait sniper website.
 - 🌱 I’m currently learning nuxt.js
-- 📫 How to reach me: warddecoster2003@gmail.com
+- 📫 How to reach me: https://www.linkedin.com/in/warddecoster
 - 🤝 I mainly use github to share some of my bigger projects.
 
 ## My familiar technologies
 ### Standards:
-| Technology  | Skill | Self-taught |
-| ------------- | ------------- | ------------- |
-| Html  | Very good  |  No (secondary school, university)  |
-| Css  | Very good  | No (secondary school, university)  |
+| Technology  | Skill |
+| ------------- | ------------- |
+| Html  | Very good  |
+| Css  | Very good  |
 
 ### Programming languages:
-| Technology  | Skill | Self-taught |
-| ------------- | ------------- | ------------- |
-| JavaScript  | Very good  |   No (secondary school, university)  |
-| TypeScript  | Very good  | Yes |
-| Python  | Good  | No (secondary school, university)  |
-| Java  | Good  |  No (university)  |
-| C#  | Good  |  No (secondary school)  |
-| C++  | Basic  |  No (secondary school)  |
-| Solidity | Good  | Yes |
+| Technology  | Skill |
+| ------------- | ------------- |
+| JavaScript  | Very good  |
+| TypeScript  | Very good  |
+| Python  | Good  |
+| Java  | Good  |
+| C#  | Good  |
+| C++  | Basic |
+| Solidity | Good  |
 
 ### Frameworks:
-| Technology  | Skill | Self-taught |
-| ------------- | ------------- | ------------- |
-| Bootstrap  | Good  |  No (secondary school)  |
-| Tailwind  | Very good  | Yes |
-| NextJS  | Very good  | Yes |
-| React  | Good  | Yes |
-| Vue  | Basic  | Yes |
-| Laravel  | Basic  |  No (university)  |
+| Technology  | Skill |
+| ------------- | ------------- |
+| Bootstrap  | Good  |
+| Tailwind  | Very good  |
+| NextJS  | Very good  |
+| React  | Good  |
+| Vue  | Basic  |
+| Laravel  | Basic  |
 
 ### Databases: 
-| Technology  | Skill | Self-taught |
-| ------------- | ------------- | ------------- |
-| Mysql  | Very good  |  No (secondary school, university)  |
-| PostgreSQL  | Very good  | Yes |
+| Technology  | Skill |
+| ------------- | ------------- |
+| Mysql  | Very good  |
+| PostgreSQL  | Very good  |
 
 ### Object-ralational mapping:
-| Technology  | Skill | Self-taught |
-| ------------- | ------------- | ------------- |
-| Prisma  | Very good  | Yes |
+| Technology  | Skill |
+| ------------- | ------------- |
+| Prisma  | Very good  |
 
 ### Authentication:
-| Technology  | Skill | Self-taught |
-| ------------- | ------------- | ------------- |
-| Nextauth  | Very good  | Yes |
-| Auth0  | Basic  | Yes |
+| Technology  | Skill |
+| ------------- | ------------- |
+| Nextauth  | Very good  |
+| Auth0  | Basic  |
 
 ### Extra:
-| Technology  | Skill | Self-taught |
-| ------------- | ------------- | ------------- |
-| NodeJS  | Very good  | Yes |
+| Technology  | Skill |
+| ------------- | ------------- |
+| NodeJS  | Very good  |

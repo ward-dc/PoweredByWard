@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Sniper monkey, a nft trait sniper website.
 - 🌱 I’m currently learning nuxt.js
 - 📫 How to reach me: https://www.linkedin.com/in/warddecoster
-- 🤝 I mainly use github to share some of my bigger projects.
+- 🤝 I mainly use github to share some of my projects.
 
 ## My familiar technologies
 ### Standards:
